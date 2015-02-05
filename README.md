@@ -1,1 +1,2 @@
-# galileo-customization
+galileo-documentation
+=====================

@@ -1,0 +1,34 @@
+@project@;Galileo
+@copyright@;Architech
+@version@;1.2.0
+@release@;A
+@date@;22/01/2015
+@htmlhelp@;galileo-sdkdoc
+@vendor@;Architech
+@board@;Galileo
+@meta-layer@;meta-clanton_v1.0.1
+@manifest-repository@;galileo-manifest
+@machine-name@;galileo
+@board-splashscreen@;galileo-splashscreen
+@user@;architech
+@user-password@;architech
+@ubuntu-machine-name@;architech
+@vm-ip@;192.168.0.100
+@target-ip@;192.168.0.10
+@board-alias@;galileo
+@ubuntu-version@;Ubuntu 12.04 32bit
+@distro-name@;poky
+@quickstart-image@;image-full-galileo
+@console-device@;/dev/ttyS0
+@target-default-eth-if@;eth0
+@eabi@;uclibc
+@u-boot-start-addr@;
+@u-boot-end-addr@;
+@unboxing@;unboxing
+@quick-lan-connector@;10/100 LAN
+@qt-libs-alias@;Galileo
+@arm-toolchain-directory@;i586-poky-linux-uclibc
+@quickstart-image-extension@;tar.bz2
+@quickstart-image-tar-options@;-xjf
+@meta-layer-remote@;https://github.com/architech-boards
+@add-ons@;
