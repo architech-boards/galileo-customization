@@ -1,5 +1,5 @@
 Bootloader
-======
+==========
 
 On power on the boot sequence steps of @board@ are:
 
