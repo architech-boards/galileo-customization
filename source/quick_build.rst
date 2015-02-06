@@ -55,7 +55,7 @@ Now set BB_NUMBER_THREADS and PARALLEL_MAKE values:
 
 .. warning::
 
-where X is the number of cores You assigned to the virtual machine multiplied for 2
+ | where X is the number of cores You assigned to the virtual machine multiplied for 2
 
 9. Save the file and close gedit.
 
